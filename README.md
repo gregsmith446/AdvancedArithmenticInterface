@@ -12,5 +12,5 @@ The implementation for the divisorSum(n) method must return the sum of all divis
 
 # Sample Output
 
-I implemented: AdvancedArithmetic
+I implemented: AdvancedArithmetic  
 12
